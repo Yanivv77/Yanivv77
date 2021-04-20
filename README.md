@@ -6,7 +6,7 @@ My name is Yaniv, Im a responsible and receptive student who seek position in Da
 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/Yaniv77)
-[![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:work.Yanivv77@gmail.com)
+[![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:Yanivv77@gmail.com)
 
 <hr>
 

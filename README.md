@@ -2,8 +2,6 @@
 
 My name is Yaniv, Im a responsible and receptive student who seek position in Data Analyst and Cloud Solution, Creating insights through data analysis using Google Cloud Platform. Currently learning data and cloud. 
 
-![GitHub Follow](https://img.shields.io/github/followers/elmoallistair.svg?style=social&label=Follow)
-![GitHub Star](https://img.shields.io/github/stars/elmoallistair?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
 
 📫 How to reach me
 

@@ -1,6 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Yaniv, Im a responsible and receptive student who seek position in Data Analyst and Cloud Solution, Creating insights through data analysis using Google Cloud Platform. Currently learning data and cloud. 
+My name is Yaniv, Im a responsible and receptive student who seek position in Data Analyst and Cloud Solution, Creating insights through data analysis using Google Cloud Platform. Currently learning Data , Machine Learning and Cloud. 
 
 
 📫 How to reach me

@@ -9,7 +9,7 @@ My name is Yaniv, Im a responsible and receptive BSc in Information Systems grad
 
 ### Languages and Tools:
 <img align="left" alt="C Sharp" width="26px" src="https://logowiki.net/uploads/logo/c/c--4.svg" />
-<img align="left" alt="Dot-Net Core" width="26px" src="https://commons.wikimedia.org/wiki/File:.NET_Core_Logo.svg" />
+<img align="left" alt="Dot-Net Core" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />
 <img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />
 <img align="left" alt="Microsoft_Azure" width="26px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />

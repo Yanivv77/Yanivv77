@@ -17,7 +17,7 @@ My name is Yaniv, Im a responsible and receptive BSc in Information Systems grad
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 <img align="left" alt="Microsoft_Azure" width="26px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />
-<img align="left" alt="Google Cloud" width="26px" src="https://github.com/detain/svg-logos/blob/master/svg/google-cloud-1.svg" />
+
 
 
 <img align="left" alt="SQL" width="26px" src="https://github.com/amido/azure-vector-icons/blob/master/icons/SQL%20Database%20(SQL%20Azure).svg" />

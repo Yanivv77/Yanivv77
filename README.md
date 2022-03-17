@@ -1,7 +1,7 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Yaniv, Im a responsible and receptive BSc in Information Systems graduate who also graduatea FullStack and Cloud Bootcamp  
-I like building Microservices with NodeJS and React 
+My name is Yaniv, Im a responsible and receptive BSc in Information Systems graduate who also attended FullStack and Cloud Bootcamp  
+I like building Microservices with NodeJS and React and deploy them 
 
 
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/Yaniv77)

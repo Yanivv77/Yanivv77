@@ -4,7 +4,7 @@ My name is Yaniv, Im a responsible and receptive BSc in Information Systems grad
 I like building Microservices with NodeJS and React and deploy them 
 
 
-[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/Yaniv77)
+[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/Yanivv77)
 [![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:Yanivv77@gmail.com)
 [![Kaggle](https://img.shields.io/badge/--linkedin?label=Kaggle&logo=Kaggle&style=social)](https://www.kaggle.com/yanivv77)
 

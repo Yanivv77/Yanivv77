@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px">
 
 My name is Yaniv, Im a responsible and receptive BSc in Information Systems graduate who also attended FullStack and Cloud Bootcamp  
 I like building Microservices with NodeJS and React and deploy them 

@@ -1,7 +1,7 @@
 
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />
 
-My name is Yaniv, As a BSc in Information Systems graduate with FullStack and Cloud Bootcamp training, I am a highly skilled and responsible developer with a strong foundation in problem-solving and the ability to quickly adapt to new technologies. Experience with building high-quality apps using C#, NodeJS, and React have also utilized Python for automation tasks I am eager to use my knowledge and experience to make a positive impact in a dynamic work environment  
+My name is Yaniv, I am a experienced FullStack developer with a strong foundation in problem-solving and the ability to quickly adapt to new technologies. Experience with building high-quality apps using C#, NodeJS, and React have also utilized Python for automation tasks I am eager to use my knowledge and experience to make a positive impact in a dynamic work environment  
 
 
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/Yanivv77)

@@ -6,7 +6,6 @@ My name is Yaniv, I am a experienced FullStack developer with a strong foundatio
 
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/Yanivv77)
 [![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:Yanivv77@gmail.com)
-[![Kaggle](https://img.shields.io/badge/--linkedin?label=Kaggle&logo=Kaggle&style=social)](https://www.kaggle.com/yanivv77)
 
 
 ### <h2>Languages and Tools</h2>

@@ -15,12 +15,9 @@ My name is Yaniv, I am a experienced FullStack developer with a strong foundatio
 <img align="left" alt="express" width="26px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />
 <img align="left" alt="reactjs" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt="nodejs" width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/>
-<img align="left" alt="Dot-Net Core" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />
 <img align="left" alt="docker" width="26px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"/>
-<img align="left" alt="Microsoft_Azure" width="26px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />
-
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="SQL" width="26px" src="https://github.com/amido/azure-vector-icons/blob/master/icons/SQL%20Database%20(SQL%20Azure).svg" />
+
 
 
 

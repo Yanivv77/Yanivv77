@@ -12,6 +12,7 @@ My name is Yaniv, I am a experienced FullStack developer with a strong foundatio
 
 
 <img align="left" alt="reactjs" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
+<img align="left" alt="reactjs" width="26px" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" />
 <img align="left" alt="nodejs" width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/>
 <img align="left" alt="mongodb" width="26px" align="left" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
 <img align="left" alt="docker" width="26px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"/>

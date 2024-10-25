@@ -1,7 +1,7 @@
 
 
 
-## 🚀Yaniv Bialik - Web Developer | Problem Solver | Tech Enthusiast
+## Yaniv Bialik - Web Developer | Problem Solver | Tech Enthusiast
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />  Hello! I'm Yaniv, a seasoned Full Stack Developer with a passion for crafting robust and efficient solutions. My expertise spans:
 

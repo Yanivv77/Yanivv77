@@ -5,7 +5,7 @@
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />  Hello! I'm Yaniv, a Full Stack Developer focused on building efficient, scalable applications with React, Node.js, and TypeScript.
 
-- 💻 Frontend:  React, next.js JavaScript, TypeScript
+- 💻 Frontend:  React, NextJs JavaScript, TypeScript
 - 🖥️ Backend: Node.js, Express
 - 🐍 Automation: Python
 - 🗄️ Databases: MongoDB, SQL

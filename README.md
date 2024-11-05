@@ -3,6 +3,8 @@
 
 ## Yaniv Bialik - Web Developer | Problem Solver | Tech Enthusiast
 
+![](https://komarev.com/ghpvc/?username=yanivv77&abbreviated=true)
+
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />  Hello! I'm Yaniv, a Full Stack Developer focused on building efficient, scalable applications with React, Node.js, and TypeScript.
 
 - 💻 Frontend:  React, NextJs, JavaScript, TypeScript

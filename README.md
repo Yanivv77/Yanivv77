@@ -1,6 +1,6 @@
 ## Yaniv Bialik
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=22C55E&vCenter=true&width=600&lines=Developer+%26+builder+from+Israel;Shipping+AI+products+end+to+end;Idea+%E2%86%92+a+link+you+can+actually+open)](https://github.com/Yanivv77)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=22C55E&vCenter=true&width=600&lines=Developer+and+builder+shipping+AI+products+end+to+end)](https://github.com/Yanivv77)
 
 I build AI products end to end and ship them fast. My favorite part is the moment a half-formed idea turns into a link you can actually open.
 
